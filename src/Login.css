@@ -1,0 +1,11 @@
+
+.login{
+    width :300px;
+    height: min-content;
+    border: radius 5px;
+    padding: 20px;
+    background-color: rgb(238, 241, 243);
+    color: gray;
+
+
+}
